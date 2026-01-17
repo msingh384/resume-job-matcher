@@ -1,0 +1,16 @@
+🔄 RESTART YOUR BACKEND TO SEE THE NEW PAGE!
+
+In the terminal where your backend is running:
+
+1. Press Ctrl+C to stop it
+
+2. Restart:
+   cd /Users/mannanrajsingh/resume-job-matcher
+   source venv/bin/activate
+   python backend/app.py
+
+3. Open in browser:
+   http://localhost:8000
+
+You'll now see a beautiful setup page instead of raw JSON! 🎉
+

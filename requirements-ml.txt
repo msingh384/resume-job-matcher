@@ -1,0 +1,6 @@
+# Additional dependencies for ML mode
+# Install with: pip install -r requirements-ml.txt
+
+sentence-transformers==2.2.2
+torch==2.1.2
+
