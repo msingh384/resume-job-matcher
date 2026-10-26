@@ -314,7 +314,7 @@ MIT License - feel free to use, modify, and distribute!
 
 ## 📧 Support
 
-For issues, questions, or suggestions, please open an issue on GitHub.
+For issues, questions, or suggestions, please open an issue on GitHub. Or message me on linkedin.
 
 ---
 
